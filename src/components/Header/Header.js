@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/vldcreation/"
+            href="https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/5223ef8bf0369a62c8acd9afedc719c3fb0b1866/assets/file/Resume_VicktorDesrony.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
