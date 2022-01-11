@@ -25,11 +25,11 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/vldcreation/vldcreation.github.io/blob/5d6c435ffe11aa79e7989566289beee118c79cb3/assets/file/CV_VicktorDesrony.pdf"
+            href="https://github.com/vldcreation/vldcreation.github.io/raw/5d6c435ffe11aa79e7989566289beee118c79cb3/assets/file/CV_VicktorDesrony.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Download CV
+            Resume
           </a>
         </NavBtn>
         <Bars onClick={toggle} />
