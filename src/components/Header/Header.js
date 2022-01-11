@@ -29,7 +29,7 @@ const Header = ({ toggle }) => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Resume
+            Download CV
           </a>
         </NavBtn>
         <Bars onClick={toggle} />

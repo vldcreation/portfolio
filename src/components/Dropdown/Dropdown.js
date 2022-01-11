@@ -89,11 +89,11 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://github.com/gurupawar/"
+          href="https://github.com/vldcreation/vldcreation.github.io/raw/5d6c435ffe11aa79e7989566289beee118c79cb3/assets/file/CV_VicktorDesrony.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          Download CV
         </a>
       </NavBtn>
     </SiderBar>
