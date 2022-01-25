@@ -1,5 +1,6 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import cv1 from '../../files/CV_VicktorDesrony.pdf';
 
 const Header = ({ toggle }) => {
   return (
@@ -25,7 +26,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/vldcreation/vldcreation.github.io/raw/5d6c435ffe11aa79e7989566289beee118c79cb3/assets/file/CV_VicktorDesrony.pdf"
+            href={cv1}
             target="_blank"
             rel="noopener noreferrer"
           >
