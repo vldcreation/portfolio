@@ -2,6 +2,7 @@ import React from "react";
 import { FaTimes } from "react-icons/fa";
 import styled from "styled-components";
 import { Link as ScrollLink } from "react-scroll";
+import cv1 from '../../files/CV_VicktorDesrony.pdf';
 
 const SiderBar = styled.div`
   background: #151418;
@@ -89,7 +90,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://github.com/vldcreation/vldcreation.github.io/raw/5d6c435ffe11aa79e7989566289beee118c79cb3/assets/file/CV_VicktorDesrony.pdf"
+          href={cv1}
           target="_blank"
           rel="noopener noreferrer"
         >
