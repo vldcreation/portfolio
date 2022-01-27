@@ -73,7 +73,6 @@ export const HeroRight = styled.div`
   flex: 1;
   justify-content: center;
   display: flex;
-  padding-bottom : 20px;
 `;
 
 export const Image = styled.img`
