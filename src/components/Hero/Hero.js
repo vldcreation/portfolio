@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Dropdown from "../Dropdown/Dropdown";
 import Header from "../Header/Header";
+import profile from '../../images/profile2.png'
 import {
   HeroContainer,
   HeroWrapper,
@@ -31,7 +32,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+              src={profile}
               alt="man-svgrepo"
             />
           </HeroRight>
