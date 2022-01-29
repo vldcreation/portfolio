@@ -19,14 +19,16 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Vicktor Desrony</strong> I Have experience as a Web
-            Developer and Website Development. Interested in studying the problems and
+            Hello! My name is <strong>Vicktor Desrony</strong> I Have experience as Software Developer. Interested in studying the problems and
             providing solutions with ideas related to Information Technology.Able to work with teams or
             individuals and have good communication skills. Able to learn quickly about new
             things and are interested in learning new technology and other things about technology
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+          . I am confident in my
+            ability to come up with compelling
+            ideas for memorable corporate
+            impact.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
