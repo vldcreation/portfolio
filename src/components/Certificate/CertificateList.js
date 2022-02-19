@@ -1,8 +1,3 @@
-import React from 'react';
-import { render } from 'react-dom';
-// import c1 from "../../images/certificate/competition/Gemastik_Vicktor_CP.jpg";
-const baseURL = 'http://localhost:3000';
-const c1 = require('../../images/certificate/competition/Gemastik_Vicktor_CP.jpg');
 export const IMAGES =
 [{
         src: "https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/master/assets/certificate/competition/2020-Asia%20Indonesia%20National-PLACE.jpg",
