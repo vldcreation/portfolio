@@ -124,6 +124,10 @@ video {
   line-height: 1.6;
 }
 
+#about{
+  padding-top: 3.5rem;
+}
+
 .tagline2 {
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -136,6 +140,9 @@ video {
   margin-bottom: 3.5rem;
 }
 .ProjectWrapper {
+  margin-top: -1rem;
+}
+.CertificateWrapper {
   margin-top: -1rem;
 }
 

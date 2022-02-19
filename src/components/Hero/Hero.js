@@ -25,9 +25,14 @@ function Hero() {
         <HeroWrapper>
           <HeroLeft>
             <h1>Hi, I'm Vicktor Desrony</h1>
-            <h5>Full Stack Developer | Back End Developer | Web Developer | IT Enthusiast</h5>
+            <h5>Full Stack Developer | Web Developer | IT Enthusiast</h5>
             <p>
-              I love to learn new technology and love problem solving.I love working on group
+              Highly motivated to continue to
+            develop my skills and grow
+            professionally. I am confident in my
+            ability to come up with compelling
+            ideas for memorable corporate
+            impact.
             </p>
           </HeroLeft>
           <HeroRight>

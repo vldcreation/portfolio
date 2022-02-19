@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ContactWrapper = styled.div`
-  margin-top: 5rem;
+  margin-top: 20rem;
 `;
 
 export const Image = styled.img`
