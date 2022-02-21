@@ -17,11 +17,11 @@ export const ProjectList = [
     demo_url: "http://spmb.del.ac.id/",
   },
   {
-    img: "https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/master/assets/project/floreslibrary-1.png",
+    img: "https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/master/assets/project/newfloreslibrary.jpeg",
     title: "Flores Library",
     description:
-      "PKM (Community Service). Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Laravel , Mysql, Ajax",
+      "PKM (Community Service). Build Website, Provide APIs, and Develope Mobile App.",
+    tech_stack: "Laravel , Mysql, Ajax, Kotlin, RecyclerView, Material Design, Navigation",
     github_url: "https://github.com/vldcreation/flores-library-api",
     demo_url: "https://www.floreslibrary.site/",
   },
@@ -33,6 +33,14 @@ export const ProjectList = [
     tech_stack: "Laravel , Laratrust, Mysql, Ajax",
     github_url: "https://github.com/vldcreation/web-mpm",
     demo_url: "#",
+  },
+  {
+    img: "https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/master/assets/project/project-pasti-microservice.png",
+    title: "Implementing Web Services in the case of Eccommerce",
+    description:
+      "Implementing Micorservice on the case of Basic Eccommerce.",
+    tech_stack: "Java,JPA,Mysql, .Net,Wcf Rest, ,NodeJS,ExpressJS,mongoDB, Native PHP as Client",
+    github_url: "https://github.com/vldcreation/Eccommerce-Microservice",
   },
   {
     img: "https://raw.githubusercontent.com/vldcreation/vldcreation.github.io/550d2a2f42e199ae0560e7848bc333b867c22cb7/assets/project/proyek5.png",
