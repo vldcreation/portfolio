@@ -32,14 +32,6 @@ function Footer() {
           >
             @vicktordesrony
           </a>{" "}
-          Theme By {" "}
-          <a
-            href="https://github.com/gurupawar/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            @gurupawar
-          </a>{" "}
         </span>
       </div>
     </FooterSection>
