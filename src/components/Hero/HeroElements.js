@@ -3,7 +3,7 @@ import { Link as LinkScroll } from "react-scroll";
 
 export const HeroContainer = styled.div`
   padding-bottom: 2rem;
-  padding-top: 4rem;
+  padding-top: 0;
   padding-right: 1rem;
   padding-left: 1rem;
   margin-right: auto;
@@ -65,7 +65,6 @@ export const HeroLeft = styled.div`
   @media screen and (max-width: 992px) {
     text-align: center;
     align-items: center;
-    margin-bottom: 2rem;
   }
 `;
 
@@ -73,10 +72,11 @@ export const HeroRight = styled.div`
   flex: 1;
   justify-content: center;
   display: flex;
+  margin-bottom:7rem;
 `;
 
 export const Image = styled.img`
-  height: 500px;
+  height: 350px;
   width: auto;
 `;
 
